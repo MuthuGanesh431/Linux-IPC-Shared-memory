@@ -135,8 +135,10 @@ int main() {
 
 ## OUTPUT
 
-<img width="757" height="533" alt="image" src="https://github.com/user-attachments/assets/179e9f44-fd80-4363-9379-fd72af89fd72" />
-<img width="895" height="677" alt="image" src="https://github.com/user-attachments/assets/383144f0-f94b-4a3a-9374-2862a5c33b02" />
+<img width="505" height="542" alt="Screenshot 2026-09-13 212038" src="https://github.com/user-attachments/assets/aaeaffc3-6b21-4649-80b6-c8b45ec1ea00" />
+<img width="720" height="638" alt="Screenshot 2026-09-13 212051" src="https://github.com/user-attachments/assets/7bbb1ba5-c427-4a78-89fa-e7191c5b79d4" />
+
+
 
 
 # RESULT:
